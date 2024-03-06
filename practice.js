@@ -6,3 +6,6 @@
  result:1010000 
 
 
+ 101001011>>3
+ >>3 removes 3 from end of interger 
+ result: 101001
